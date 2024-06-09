@@ -1,4 +1,6 @@
-Stock Value Prediction Program ## Overview This program, coded by Girish GH, attempts to predict stock values using various data analysis and machine learning techniques. It is designed for educational and informational purposes only and should not be considered a financial tool.
+Stock Value Prediction Program 
+## Overview:
+This program, coded by Girish GH, attempts to predict stock values using various data analysis and machine learning techniques. It is designed for educational and informational purposes only and should not be considered a financial tool.
 ## Disclaimer **Important:** - 
 This program is not a financial tool and is not intended for making financial decisions. - The author, Girish GH, is not a financial advisor. - Any similarities to financial advice or recommendations are purely coincidental. - Users should not rely on the results of this program for any investment purposes. - The author does not assume any responsibility for financial losses or gains resulting from the use of this program.
 ## Purpose:
